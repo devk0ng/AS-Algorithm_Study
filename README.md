@@ -1,4 +1,4 @@
-# AS-Algorithm_Study-
+# AS(Algorithm_Study)
 
 ## Welcome, Here is time complexity lab
 :1st_place_medal: 주 3회 화, 목, 토 까지 올라오는 문제 풀 것 ( 문제는 월, 수, 금 올리겠씀돠 )
