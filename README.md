@@ -6,6 +6,7 @@
 1. [숫자문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 
 2. [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+3. [표 ](https://programmers.co.kr/learn/courses/30/lessons/81303)
 
 
 
