@@ -7,6 +7,7 @@
 
 2. [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 3. [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)
+4. [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304)
 
 
 
